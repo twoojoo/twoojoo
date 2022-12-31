@@ -8,7 +8,7 @@ skills.
 
 Always looking to improve my **technical knowledge** and to learn new useful technologies.
 
-Mainly aiming at a **full remote & smartworking** position.
+Mainly aiming at a **full remote** & **smartworking** position.
 
 ## Tech Profile
 
@@ -47,6 +47,8 @@ requirements
 > **Self taught Web Developer**
 
 > 2021 - 2022
+
+I organized my study program for all the tools I wanted to learn and attended many courses that I selected by my self. My main goal was both to achieve the needed skills to start my tech career and to aquire a minimum general knowledge in Computer Science.
 
 > **Master Degree in Philosophical Sciences** - Ca' Foscari University, Venice, Italy
 

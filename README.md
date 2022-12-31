@@ -44,6 +44,10 @@ requirements
 
 ## Education
 
+> **Self taught Web Developer**
+
+> 2021 - 2022
+
 > **Master Degree in Philosophical Sciences** - Ca' Foscari University, Venice, Italy
 
 > 2016 - 2021

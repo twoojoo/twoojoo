@@ -1,6 +1,6 @@
 ## Professional Summary
 
-#**Backend Developer**#
+**Backend Developer**
 
 Seeking a full-time position that offers professional challenges
 while improving **interpersonal**, **time** **management** and **problem-solving**

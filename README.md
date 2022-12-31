@@ -1,6 +1,6 @@
 ## Professional Summary
 
-**Backend Developer**
+### 🎯 Backend Developer
 
 Seeking a full-time position that offers professional challenges
 while improving **interpersonal**, **time** **management** and **problem-solving**
@@ -12,7 +12,7 @@ Mainly aiming at a **full remote** & **smartworking** position.
 
 ## Tech Profile
 
-### Skills
+### 🛠 Skills
 
 |                |              |                     |              |            |       |
 |----------------|--------------|---------------------|--------------|------------|-------|
@@ -21,7 +21,7 @@ Mainly aiming at a **full remote** & **smartworking** position.
 | **Node.js**    | intermediate | **Kubernetes**      | basic        |            |       |
 | **Git**        | intermediate | **Docker**          | basic        |            |       |
 
-### Interests
+### 🔭 Interests
 
 - Currently learning **Rust** and **Golang**.
 - Willing to improve my **Microservices** and **Stream Processing** knowledge.

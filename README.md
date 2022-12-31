@@ -46,17 +46,15 @@ requirements
 
 > **Self taught Web Developer**
 
-> 2021 - 2022
-
 I organized my study program for all the tools I wanted to learn and attended many courses that I selected by my self. My main goal was both to achieve the needed skills to start my tech career and to aquire a minimum general knowledge in Computer Science.
 
 > **Master Degree in Philosophical Sciences** - Ca' Foscari University, Venice, Italy
 
-> 2016 - 2021
-
 - **Communication** and **Writing skills**: I wrote many essays and took part as speaker to some conferences.
 - **Problem solving** and **Critical thinking**: I focused on the study of theoretical philosophy and formal logic.
 - **Cultural awareness**
+
+> **High School Diploma in Electronics and Telecommunications** - Montebelluna, Treviso, Italy
 
 ## Languages
 

@@ -66,6 +66,10 @@ Worked in **Agile** Scrum team environment.
 
 > **Master Degree in Philosophical Sciences** - Ca' Foscari University, Venice, Italy
 
+- **Communication** and **Writing skills**: I wrote many essays and took part as speaker to some conferences.
+- **Problem solving** and **Critical thinking**: I focused on the study of theoretical philosophy and formal logic.
+- **Cultural awareness**
+
 ## Languages
 
 > **Italian** - native

@@ -25,7 +25,7 @@ Mainly aiming at a **full remote** & **smartworking** position.
 - Willing to improve my **Microservices** and **Stream Processing** knowledge.
 - Interested in intermediate **K8s** and **DB admin** knowledge.
 
-## Professional Experience
+## 👨‍🔧 Professional Experience
 
 > **Back End & Integration Developer** - Smartpricing, Trento, Italy
 
@@ -40,7 +40,7 @@ requirements
 - Contributed to mantain and implement **cloud-based back-end solutions with Kubernetes**.
 - Worked in **Agile** Scrum team environment.
 
-## Education
+## 📃 Education
 
 > **Self taught Web Developer**
 

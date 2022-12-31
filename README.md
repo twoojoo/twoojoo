@@ -26,13 +26,11 @@ Mainly aiming at a **full remote & smartworking** position.
 
 ### Skills
 
-|                     |              |                |       |
-|---------------------|--------------|----------------|-------|
-| **Javascipt**       | intermediate | **Kafka**      | basic |
-| **Typescript**      | intermediate | **Docker**     | basic |
-| **Node.js**         | intermediate | **Kubernetes** | basic |
-| **SQL**             | intermediate | **Jira**       | basic |
-| **HTTP / REST API** | intermediate |                |       |
+|                |              |                     |              |            |       |
+|----------------|--------------|---------------------|--------------|------------|-------|
+| **Javascipt**  | intermediate | **SQL**             | intermediate | **Docker** | basic |
+| **Typescript** | intermediate | **HTTP / REST API** | intermediate | **Kafka**  | basic |
+| **Node.js**    | intermediate | **Kubernetes**      | basic        | **Jira**   | basic |
 
 ### Interests
 

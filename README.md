@@ -1,16 +1,73 @@
-### Hi there 👋
+# Giovanni Campeol
 
-<!--
-**twoojoo/twoojoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Summary
 
-Here are some ideas to get you started:
+<u>**Backend Developer**</u>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seeking a full-time position that offers professional challenges
+while improving **interpersonal**, **time** **management** and **problem-solving**
+skills.
+
+Always looking to improve my **technical knowledge** and to learn new useful technologies.
+
+Mainly aiming at a **full remote & smartworking** position.
+
+## Contacts
+
+> Address: Via Anselmi, 5 - 31040 - Volpago d. M.llo (TV) Italy
+
+> Email: giovanni.campeol.95@gmail.com
+
+> Phone: 3481690600
+
+> Github: https://github.com/twoojoo
+
+## Tech Profile
+
+### Skills
+
+> **JavaScript** - intermediate
+
+> **Typescript** intermediate
+
+> **Node.js** (Fastify, Express) - intermediate
+
+> **SQL** (PostgreSQL) - intermediate
+
+> **HTTP** / **REST API** - intermediate
+
+> **Kafka** - basic
+
+> **Docker** - basic
+
+> **Kubernetes** - basic
+
+> **Jira**
+
+### Interests
+
+> Currently learning **Rust** and **Golang**
+
+> Interested in intermediate **K8s** and **DB admin** knowledge
+
+## Professional Experience
+
+> **Back End & Integration Developer** - Smartpricing, Trento, Italy
+
+- Integrated third-party APIs from external applications into web platforms.
+- Balanced design principles and technology standards with product timelines and partner-specific
+requirements.
+- Troubleshot and debugged software to clean up code and improve efficiency.
+- Developed web platform back-end using NodeJS, Fastify and Kafka.
+- Implemented cloud-based back-end solutions with Kubernetes.
+Worked in **Agile** Scrum team environment.
+
+## Education
+
+> **Master Degree in Philosophical Sciences** - Ca' Foscari University, Venice, Italy
+
+## Languages
+
+> **Italian** - native
+
+> **English** - B2

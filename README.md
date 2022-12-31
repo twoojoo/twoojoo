@@ -1,4 +1,4 @@
-## Professional Summary
+## Tech Profile
 
 ### 🎯 Backend Developer
 
@@ -9,8 +9,6 @@ skills.
 Always looking to improve my **technical knowledge** and to learn new useful technologies.
 
 Mainly aiming at a **full remote** & **smartworking** position.
-
-## Tech Profile
 
 ### 🛠 Skills
 

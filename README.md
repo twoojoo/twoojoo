@@ -30,6 +30,7 @@ Mainly aiming at a **full remote & smartworking** position.
 ## Professional Experience
 
 > **Back End & Integration Developer** - Smartpricing, Trento, Italy
+> 2022/01 - now
 
 - **Integrated third-party APIs** from external applications into web platforms.
 - Balanced **design principles** with product timelines and partner-specific
@@ -43,6 +44,7 @@ requirements
 ## Education
 
 > **Master Degree in Philosophical Sciences** - Ca' Foscari University, Venice, Italy
+> 2016 - 2021
 
 - **Communication** and **Writing skills**: I wrote many essays and took part as speaker to some conferences.
 - **Problem solving** and **Critical thinking**: I focused on the study of theoretical philosophy and formal logic.

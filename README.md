@@ -52,7 +52,7 @@ requirements
 
 > **High School Diploma in Electronics and Telecommunications** - Montebelluna, Treviso, Italy
 
-## Languages
+### 🌎 Languages
 
 - **Italian** - native
 - **English** - B2

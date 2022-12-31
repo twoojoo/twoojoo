@@ -1,5 +1,3 @@
-# Giovanni Campeol
-
 ## Professional Summary
 
 <u>**Backend Developer**</u>
@@ -31,6 +29,7 @@ Mainly aiming at a **full remote & smartworking** position.
 | **Javascipt**  | intermediate | **SQL**             | intermediate | **Docker** | basic |
 | **Typescript** | intermediate | **HTTP / REST API** | intermediate | **Kafka**  | basic |
 | **Node.js**    | intermediate | **Kubernetes**      | basic        | **Jira**   | basic |
+| **Git**        | intermediate |                     |              |            |       |
 
 ### Interests
 

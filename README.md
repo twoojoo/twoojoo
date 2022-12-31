@@ -16,10 +16,10 @@ Mainly aiming at a **full remote & smartworking** position.
 
 |                |              |                     |              |            |       |
 |----------------|--------------|---------------------|--------------|------------|-------|
-| **Javascipt**  | intermediate | **SQL**             | intermediate | **Docker** | basic |
+| **Javascipt**  | intermediate | **SQL**             | intermediate | **Jira**   | basic |
 | **Typescript** | intermediate | **HTTP / REST API** | intermediate | **Kafka**  | basic |
-| **Node.js**    | intermediate | **Kubernetes**      | basic        | **Jira**   | basic |
-| **Git**        | intermediate |                     |              |            |       |
+| **Node.js**    | intermediate | **Kubernetes**      | basic        |            |       |
+| **Git**        | intermediate | **Docker**          | basic        |            |       |
 
 ### Interests
 

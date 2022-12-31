@@ -10,16 +10,6 @@ Always looking to improve my **technical knowledge** and to learn new useful tec
 
 Mainly aiming at a **full remote & smartworking** position.
 
-## Contacts
-
-> Address: Via Anselmi, 5 - 31040 - Volpago d. M.llo (TV) Italy
-
-> Email: giovanni.campeol.95@gmail.com
-
-> Phone: 3481690600
-
-> Github: https://github.com/twoojoo
-
 ## Tech Profile
 
 ### Skills

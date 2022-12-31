@@ -1,3 +1,5 @@
+<a href="https://www.linkedin.com/in/giovanni-campeol-10623b222/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
 ### 🎯 Backend Developer
 
 Seeking a full-time position that offers professional challenges
@@ -14,8 +16,8 @@ Mainly aiming at a **full remote** & **smartworking** position.
 |----------------|--------------|---------------------|--------------|------------|-------|
 | **Javascipt**  | intermediate | **SQL**             | intermediate | **Jira**   | basic |
 | **Typescript** | intermediate | **HTTP / REST API** | intermediate | **Kafka**  | basic |
-| **Node.js**    | intermediate | **Kubernetes**      | basic        |            |       |
-| **Git**        | intermediate | **Docker**          | basic        |            |       |
+| **Node.js**    | intermediate | **Kubernetes**      | basic        | **Linux**  | basic |
+| **Git**        | intermediate | **Docker**          | basic        | **Bash**   | basic |
 
 ### 🔭 Interests
 

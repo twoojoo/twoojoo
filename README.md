@@ -46,21 +46,23 @@ Mainly aiming at a **full remote & smartworking** position.
 
 ### Interests
 
-> Currently learning **Rust** and **Golang**
+> Currently learning **Rust** and **Golang**.
 
-> Interested in intermediate **K8s** and **DB admin** knowledge
+> Willing to improve my **Microservices** and **Stream Processing** knowledge.
+
+> Interested in intermediate **K8s** and **DB admin** knowledge.
 
 ## Professional Experience
 
 > **Back End & Integration Developer** - Smartpricing, Trento, Italy
 
-- Integrated third-party APIs from external applications into web platforms.
-- Balanced design principles and technology standards with product timelines and partner-specific
-requirements.
-- Troubleshot and debugged software to clean up code and improve efficiency.
-- Developed web platform back-end using NodeJS, Fastify and Kafka.
-- Implemented cloud-based back-end solutions with Kubernetes.
-Worked in **Agile** Scrum team environment.
+- **Integrated third-party APIs** from external applications into web platforms.
+- Balanced **design principles** with product timelines and partner-specific
+requirements (switched from a monolithic to microservices architecture).
+- **Troubleshot** and **debugged** software to clean up code and improve efficiency.
+- Developed web **platform back-end** using NodeJS, Fastify and Kafka.
+- Contributed to mantain and implement **cloud-based back-end solutions with Kubernetes**.
+- Worked in **Agile** Scrum team environment.
 
 ## Education
 

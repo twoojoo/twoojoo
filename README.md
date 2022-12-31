@@ -23,11 +23,9 @@ Mainly aiming at a **full remote & smartworking** position.
 
 ### Interests
 
-> Currently learning **Rust** and **Golang**.
-
-> Willing to improve my **Microservices** and **Stream Processing** knowledge.
-
-> Interested in intermediate **K8s** and **DB admin** knowledge.
+- Currently learning **Rust** and **Golang**.
+- Willing to improve my **Microservices** and **Stream Processing** knowledge.
+- Interested in intermediate **K8s** and **DB admin** knowledge.
 
 ## Professional Experience
 

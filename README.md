@@ -1,10 +1,10 @@
 ### 🎯 Backend Developer
 
-Seeking a full-time position that offers professional challenges
+Seeking a full-time position that offers professional **challenges**
 while improving **interpersonal**, **time** **management** and **problem-solving**
 skills.
 
-Always looking to improve my **technical knowledge** and to learn new useful technologies.
+Always looking to **improve my technical knowledge** and to learn new useful technologies.
 
 Mainly aiming at a **full remote** & **smartworking** position.
 

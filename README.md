@@ -4,6 +4,8 @@ Seeking a full-time position that offers professional **challenges**
 while improving **interpersonal**, **time** **management** and **problem-solving**
 skills.
 
+Focused on **Node.js** ecosystem, but always enthusiastic about new possibilities
+
 Always looking to **improve my technical knowledge** and to learn new useful technologies.
 
 Mainly aiming at a **full remote** & **smartworking** position.

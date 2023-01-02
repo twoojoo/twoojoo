@@ -34,7 +34,7 @@ Mainly aiming at a **full remote** & **smartworking** position.
 - **Integrated third-party API**s from external applications into web platforms.
 - Balanced **design principles** with product timelines and partner-specific
 requirements 
-- Migrate the integrations codebase from a monolithic to **microservices** architecture.
+- Migrate the integrations codebase from a monolithic to a **microservices** architecture.
 - **Troubleshot** and **debugged** software to clean up code and improve efficiency.
 - Developed web **platform back-end** using NodeJS, Fastify and Kafka.
 - Contributed to mantain and implement **cloud-based back-end solutions with Kubernetes**.

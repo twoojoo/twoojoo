@@ -31,7 +31,7 @@ Mainly aiming at a **full remote** & **smartworking** position.
 
 > 2022/01 - now
 
-- **Integrated third-party API**s from external applications into web platforms.
+- **Integrated third-party API**s from external applications into the company platform.
 - Balanced **design principles** with product timelines and partner-specific
 requirements 
 - Migrate the integrations codebase from a monolithic to a **microservices** architecture.
